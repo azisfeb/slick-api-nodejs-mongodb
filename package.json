@@ -1,0 +1,14 @@
+{
+  "name": "cash-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azis Febriandi",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
